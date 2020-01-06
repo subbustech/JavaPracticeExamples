@@ -1,6 +1,6 @@
 package pk3DataTypes;
 
-public class Pr1PrimitiveCasting {
+public class Pr2PrimitiveCasting {
 
 	public static void main(String[] args) {
 		//Whole Numbers
