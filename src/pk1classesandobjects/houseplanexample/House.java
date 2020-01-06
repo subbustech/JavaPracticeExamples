@@ -1,4 +1,4 @@
-package classesandobjects.houseplanexample;
+package pk1classesandobjects.houseplanexample;
 
 public class House {
 	public static void main(String[] args) {

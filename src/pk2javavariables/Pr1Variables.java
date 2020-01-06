@@ -1,6 +1,6 @@
-package javavariables;
+package pk2javavariables;
 
-public class Variables1 {
+public class Pr1Variables {
 
 	public static void main(String[] args) {
 		int a = 10;

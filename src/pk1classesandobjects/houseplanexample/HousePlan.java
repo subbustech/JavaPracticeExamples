@@ -1,4 +1,4 @@
-package classesandobjects.houseplanexample;
+package pk1classesandobjects.houseplanexample;
 
 public class HousePlan {
 	public int bedrooms;
